@@ -1,0 +1,7 @@
+C:\Users\jared\source\repos\OrdenamientoShell\OrdenamientoShell\bin\Debug\OrdenamientoShell.exe.config
+C:\Users\jared\source\repos\OrdenamientoShell\OrdenamientoShell\bin\Debug\OrdenamientoShell.exe
+C:\Users\jared\source\repos\OrdenamientoShell\OrdenamientoShell\bin\Debug\OrdenamientoShell.pdb
+C:\Users\jared\source\repos\OrdenamientoShell\OrdenamientoShell\obj\Debug\OrdenamientoShell.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\OrdenamientoShell\OrdenamientoShell\obj\Debug\OrdenamientoShell.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\OrdenamientoShell\OrdenamientoShell\obj\Debug\OrdenamientoShell.exe
+C:\Users\jared\source\repos\OrdenamientoShell\OrdenamientoShell\obj\Debug\OrdenamientoShell.pdb
